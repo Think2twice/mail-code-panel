@@ -8,15 +8,6 @@
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Think2twice/mail-code-panel&env=MAIL_ACCOUNTS_JSON,MAIL_LOOKBACK_MINUTES,MAIL_FETCH_LIMIT,MAIL_CONNECT_TIMEOUT_MS,MAIL_SOCKET_TIMEOUT_MS,REQUIRE_ACCESS_PASSWORD,APP_ACCESS_PASSWORD&envDescription=Configure%20your%20authorized%20mailboxes%20and%20access%20password.&project-name=mail-code-panel&repository-name=mail-code-panel)
 
-## 截图
-
-后面可以把截图放到这里。
-
-```md
-![首页](./docs/images/home.png)
-![结果](./docs/images/result.png)
-```
-
 ## 功能
 
 - 多邮箱账户：Gmail、QQ 邮箱、Outlook 或其他兼容 IMAP 的邮箱。

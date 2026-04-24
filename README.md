@@ -8,15 +8,6 @@ A read-only mailbox verification code panel for your own authorized email accoun
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Think2twice/mail-code-panel&env=MAIL_ACCOUNTS_JSON,MAIL_LOOKBACK_MINUTES,MAIL_FETCH_LIMIT,MAIL_CONNECT_TIMEOUT_MS,MAIL_SOCKET_TIMEOUT_MS,REQUIRE_ACCESS_PASSWORD,APP_ACCESS_PASSWORD&envDescription=Configure%20your%20authorized%20mailboxes%20and%20access%20password.&project-name=mail-code-panel&repository-name=mail-code-panel)
 
-## Screenshots
-
-Screenshots can be added here later.
-
-```md
-![Home](./docs/images/home.png)
-![Result](./docs/images/result.png)
-```
-
 ## Features
 
 - Multiple mailbox accounts: Gmail, QQ Mail, Outlook, or any compatible IMAP mailbox.
