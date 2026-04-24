@@ -1,0 +1,13 @@
+version: "3.9"
+
+services:
+  mail-code-panel:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: mail-code-panel
+    ports:
+      - "3000:3000"
+    env_file:
+      - .env.local
+    restart: unless-stopped
